@@ -1,0 +1,29 @@
+_repo: My-Experiences-in-Manipur-and-the-Naga-Hills_37839
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37839-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Johnstone, James, Sir
+    birthdate: 1841
+    deathdate: 1895
+    gutenberg_agent_id: '41048'
+    url: http://www.gutenberg.org/2009/agents/41048
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37839'
+  lccn: '45041575'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Manipur (India) -- Description and travel'
+- !lcsh 'Naga Hills (India) -- Description and travel'
+title: My Experiences in Manipur and the Naga Hills
+url: http://www.gutenberg.org/ebooks/37839
